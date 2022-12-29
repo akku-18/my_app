@@ -1,10 +1,13 @@
 {
-  "Flex": 53,
-  "TextBox": 47,
+  "Flex": 75,
+  "TextBox": 74,
   "Icon": 2,
   "VerticalMenu": 1,
-  "Image": 17,
+  "Image": 24,
   "Button": 2,
   "Div": 1,
-  "UnorderedList": 15
+  "UnorderedList": 15,
+  "Menu": 1,
+  "Modal": 2,
+  "LineChart": 1
 }

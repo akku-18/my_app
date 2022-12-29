@@ -139,6 +139,45 @@ const desktopModeProps = {
     "Flex51": {
       "callbacks": {}
     },
+    "Flex56": {
+      "callbacks": {}
+    },
+    "Flex58": {
+      "callbacks": {}
+    },
+    "Flex63": {
+      "callbacks": {}
+    },
+    "Flex75": {
+      "callbacks": {}
+    },
+    "Flex64": {
+      "callbacks": {}
+    },
+    "Flex74": {
+      "callbacks": {}
+    },
+    "Flex65": {
+      "callbacks": {}
+    },
+    "Flex72": {
+      "callbacks": {}
+    },
+    "Flex62": {
+      "callbacks": {}
+    },
+    "Flex69": {
+      "callbacks": {}
+    },
+    "Flex70": {
+      "callbacks": {}
+    },
+    "Flex60": {
+      "callbacks": {}
+    },
+    "Flex61": {
+      "callbacks": {}
+    },
     "Porfolio_Creater": {
       "custom": {
         "text": "Portfolio Creater"
@@ -409,9 +448,6 @@ const desktopModeProps = {
           }
         ]
       }
-    },
-    "Flex53": {
-      "callbacks": {}
     },
     "TextBox25": {
       "custom": {
@@ -881,6 +917,300 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/project3.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox59": {
+      "custom": {
+        "text": "Design tips for designers, that cover everything you need"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox60": {
+      "custom": {
+        "text": "December 29, 2022 .5min"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox72": {
+      "custom": {
+        "text": "22 Best UI design tools"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox73": {
+      "custom": {
+        "text": "29 December,2022 .4min"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox74": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image24": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right_arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox69": {
+      "custom": {
+        "text": "29 December, 2022 .6min"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox70": {
+      "custom": {
+        "text": "Logo design trends to avoid in 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox71": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image23": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right_arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox65": {
+      "custom": {
+        "text": "December 29, 2022 .5min"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox67": {
+      "custom": {
+        "text": "Top 6 free website mockup tools 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox68": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image22": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right_arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox61": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image19": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right_arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox62": {
+      "custom": {
+        "text": "December 29, 2022 .6min"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox63": {
+      "custom": {
+        "text": "How to build rapport with your web design clients"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox64": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image21": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right_arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox56": {
+      "custom": {
+        "text": "Latest Blogs"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox57": {
+      "custom": {
+        "text": "BLOGS"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox58": {
+      "custom": {
+        "text": "View All"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image18": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right_arrow.svg"
       },
       "callbacks": {
         "onClick": [
