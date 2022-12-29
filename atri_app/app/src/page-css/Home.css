@@ -39,7 +39,7 @@ display: flex;
 width: ;
 justify-content: center;
 align-items: center;
-height: 70%;
+height: ;
 padding-top: 80px;
 }
 .p-Home.Flex8 {
@@ -47,6 +47,7 @@ display: flex;
 width: 60%;
 justify-content: space-around;
 height: 100%;
+align-items: stretch;
 }
 .p-Home.Flex9 {
 display: flex;
@@ -58,6 +59,44 @@ flex-direction: column;
 display: flex;
 padding-top: 30px;
 column-gap: 10px;
+}
+.p-Home.Flex10 {
+display: flex;
+width: 50%;
+justify-content: flex-start;
+align-items: stretch;
+flex-direction: row;
+}
+.p-Home.Flex12 {
+display: flex;
+justify-content: center;
+padding-top: 60px;
+height: 400px;
+}
+.p-Home.Flex14 {
+display: flex;
+flex-direction: column;
+}
+.p-Home.Flex15 {
+display: flex;
+flex-direction: row;
+align-items: stretch;
+justify-content: space-around;
+row-gap: 20px;
+padding-top: 20px;
+}
+.p-Home.Flex17 {
+display: flex;
+}
+.p-Home.Flex24 {
+display: flex;
+row-gap: 10px;
+}
+.p-Home.Flex26 {
+display: flex;
+}
+.p-Home.Flex18 {
+display: flex;
 }
 .p-Home.Porfolio_Creater {
 font-family: IBM Plex Sans;
@@ -88,13 +127,9 @@ font-size: ;
 width: 13px;
 cursor: grab;
 }
-.p-Home.Flex10 {
-display: flex;
-width: 50%;
-}
 .p-Home.TextBox11 {
 font-family: IBM Plex Sans;
-font-size: 57px;
+font-size: 55px;
 font-weight: 700;
 color: #5a49ac;
 height: ;
@@ -136,4 +171,32 @@ font-weight: 600;
 }
 .p-Home.Image5 {
 ;
+}
+.p-Home.Image6 {
+width: 95%;
+height: auto;
+align-self: flex-start;
+}
+.p-Home.TextBox17 {
+align-self: center;
+}
+.p-Home.Image8 {
+width: 100px;
+height: 20px;
+padding-left: 70px;
+}
+.p-Home.Image9 {
+width: 100px;
+height: 20px;
+padding-left: 70px;
+padding-right: 70px;
+}
+.p-Home.Image10 {
+width: 100px;
+height: 20px;
+}
+.p-Home.Image7 {
+width: 100px;
+height: 18px;
+padding-left: 70px;
 }

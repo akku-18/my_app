@@ -67,6 +67,30 @@ const desktopModeProps = {
     "Flex11": {
       "callbacks": {}
     },
+    "Flex10": {
+      "callbacks": {}
+    },
+    "Flex12": {
+      "callbacks": {}
+    },
+    "Flex14": {
+      "callbacks": {}
+    },
+    "Flex15": {
+      "callbacks": {}
+    },
+    "Flex17": {
+      "callbacks": {}
+    },
+    "Flex24": {
+      "callbacks": {}
+    },
+    "Flex26": {
+      "callbacks": {}
+    },
+    "Flex18": {
+      "callbacks": {}
+    },
     "Porfolio_Creater": {
       "custom": {
         "text": "Portfolio Creater"
@@ -164,9 +188,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "Flex10": {
-      "callbacks": {}
-    },
     "TextBox11": {
       "custom": {
         "text": "I design products "
@@ -231,6 +252,83 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/right_arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image6": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/person.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox17": {
+      "custom": {
+        "text": "Trusted by"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image8": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/logoipsum2.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image9": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/logoipsum3.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image10": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/logoipsum4.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image7": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/logoipsum1.png"
       },
       "callbacks": {
         "onClick": [

@@ -4,5 +4,17 @@
   },
   "person.jpeg": {
     "mime": "image/jpeg"
+  },
+  "logoipsum1.png": {
+    "mime": "image/png"
+  },
+  "logoipsum2.png": {
+    "mime": "image/png"
+  },
+  "logoipsum3.png": {
+    "mime": "image/png"
+  },
+  "logoipsum4.png": {
+    "mime": "image/png"
   }
 }
