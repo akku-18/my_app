@@ -116,7 +116,7 @@ align-items: stretch;
 justify-content: center;
 font-family: IBM Plex Sans;
 font-size: 30px;
-padding-bottom: 70px;
+padding-bottom: ;
 }
 .p-Home.Flex33 {
 display: flex;
@@ -498,7 +498,7 @@ cursor: grab;
 .p-Home.Flex156 {
 display: flex;
 justify-content: center;
-background-color: #000000;
+background-color: #000000ff;
 padding-top: 50px;
 padding-bottom: 80px;
 }
@@ -569,6 +569,46 @@ cursor: grab;
 display: flex;
 justify-content: space-between;
 cursor: grab;
+}
+.p-Home.Flex173 {
+display: flex;
+flex-direction: column;
+margin-left: ;
+padding-left: 220px;
+padding-right: ;
+background-color: #000000ff;
+padding-bottom: 100px;
+}
+.p-Home.Flex174 {
+display: flex;
+justify-content: space-between;
+padding-top: 80px;
+padding-right: 200px;
+color: #ffffff;
+}
+.p-Home.Flex175 {
+display: flex;
+flex-direction: column;
+row-gap: 10px;
+}
+.p-Home.Flex176 {
+display: flex;
+column-gap: 40px;
+}
+.p-Home.Flex180 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.Flex194 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
+}
+.p-Home.Flex205 {
+display: flex;
+flex-direction: column;
+row-gap: 20px;
 }
 .p-Home.Porfolio_Creater {
 font-family: IBM Plex Sans;
@@ -1268,4 +1308,75 @@ font-size: 20px;
 }
 .p-Home.Image61 {
 ;
+}
+.p-Home.TextBox117 {
+font-family: IBM Plex Sans;
+font-size: 40px;
+font-weight: 700;
+padding-top: 50px;
+color: #ffffff;
+}
+.p-Home.TextBox118 {
+font-family: IBM Plex Sans;
+font-size: 40px;
+font-weight: 700;
+color: #f22ef2;
+}
+.p-Home.TextBox119 {
+font-size: 15px;
+color: #d1d1d1;
+}
+.p-Home.TextBox120 {
+font-family: IBM Plex Sans;
+font-size: 23px;
+font-weight: 700;
+}
+.p-Home.TextBox121 {
+font-size: 17px;
+color: #e4e4e4;
+}
+.p-Home.TextBox129 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 600;
+}
+.p-Home.TextBox130 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 600;
+}
+.p-Home.TextBox131 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 600;
+}
+.p-Home.TextBox122 {
+font-size: 20px;
+font-family: IBM Plex Sans;
+font-weight: 600;
+}
+.p-Home.TextBox124 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 600;
+}
+.p-Home.TextBox125 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 600;
+}
+.p-Home.TextBox126 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 600;
+}
+.p-Home.TextBox127 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 600;
+}
+.p-Home.TextBox128 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 600;
 }
