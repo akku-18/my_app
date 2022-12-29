@@ -989,7 +989,7 @@ const desktopModeProps = {
     "Image24": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right_arrow.svg"
+        "src": "/app-assets/white_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1038,7 +1038,7 @@ const desktopModeProps = {
     "Image23": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right_arrow.svg"
+        "src": "/app-assets/white_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1087,7 +1087,7 @@ const desktopModeProps = {
     "Image22": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right_arrow.svg"
+        "src": "/app-assets/white_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1112,7 +1112,7 @@ const desktopModeProps = {
     "Image19": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right_arrow.svg"
+        "src": "/app-assets/white_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1161,7 +1161,7 @@ const desktopModeProps = {
     "Image21": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right_arrow.svg"
+        "src": "/app-assets/white_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1210,7 +1210,7 @@ const desktopModeProps = {
     "Image18": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right_arrow.svg"
+        "src": "/app-assets/white_arrow.svg"
       },
       "callbacks": {
         "onClick": [

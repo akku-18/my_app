@@ -37,5 +37,8 @@
   },
   "line.png": {
     "mime": "image/png"
+  },
+  "white_arrow.svg": {
+    "mime": "image/svg+xml"
   }
 }
