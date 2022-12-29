@@ -52,5 +52,23 @@
   },
   "product4.png": {
     "mime": "image/png"
+  },
+  "book.png": {
+    "mime": "image/png"
+  },
+  "briefcase.png": {
+    "mime": "image/png"
+  },
+  "NE-arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "work1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "work2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "work3.svg": {
+    "mime": "image/svg+xml"
   }
 }

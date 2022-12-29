@@ -1,9 +1,9 @@
 {
-  "Flex": 87,
-  "TextBox": 78,
+  "Flex": 145,
+  "TextBox": 101,
   "Icon": 2,
   "VerticalMenu": 1,
-  "Image": 30,
+  "Image": 46,
   "Button": 2,
   "Div": 1,
   "UnorderedList": 15,
