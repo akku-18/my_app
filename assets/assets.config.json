@@ -40,5 +40,17 @@
   },
   "white_arrow.svg": {
     "mime": "image/svg+xml"
+  },
+  "product1.png": {
+    "mime": "image/png"
+  },
+  "product2.png": {
+    "mime": "image/png"
+  },
+  "product3.png": {
+    "mime": "image/png"
+  },
+  "product4.png": {
+    "mime": "image/png"
   }
 }
