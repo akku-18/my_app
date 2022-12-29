@@ -112,6 +112,15 @@ const desktopModeProps = {
     "Flex36": {
       "callbacks": {}
     },
+    "Flex37": {
+      "callbacks": {}
+    },
+    "Flex40": {
+      "callbacks": {}
+    },
+    "Flex41": {
+      "callbacks": {}
+    },
     "Porfolio_Creater": {
       "custom": {
         "text": "Portfolio Creater"
@@ -656,6 +665,54 @@ const desktopModeProps = {
             "title": "Efficient and maintainable"
           }
         ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox33": {
+      "custom": {
+        "text": "I bring results.  "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox34": {
+      "custom": {
+        "text": "PROJECTS"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox35": {
+      "custom": {
+        "text": "My clients are proof."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button2": {
+      "custom": {
+        "text": "View all projects"
       },
       "callbacks": {
         "onClick": [
