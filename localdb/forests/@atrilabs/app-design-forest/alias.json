@@ -1,13 +1,14 @@
 {
-  "Flex": 145,
-  "TextBox": 101,
+  "Flex": 172,
+  "TextBox": 116,
   "Icon": 2,
-  "VerticalMenu": 1,
-  "Image": 46,
+  "VerticalMenu": 2,
+  "Image": 61,
   "Button": 2,
-  "Div": 1,
+  "Div": 2,
   "UnorderedList": 15,
   "Menu": 1,
   "Modal": 2,
-  "LineChart": 1
+  "LineChart": 1,
+  "Carousel": 1
 }
