@@ -8,7 +8,8 @@ import { Flex } from "@atrilabs/react-component-manifests/src/manifests/Flex/Fle
 import { TextBox } from "@atrilabs/react-component-manifests/src/manifests/TextBox/TextBox.tsx";
 import { Image } from "@atrilabs/react-component-manifests/src/manifests/Image/Image.tsx";
 import { Button } from "@atrilabs/react-component-manifests/src/manifests/Button/Button.tsx";
-import { useFlex5Cb, useFlex1Cb, useFlex2Cb, useFlex3Cb, useFlex4Cb, useFlex7Cb, useFlex8Cb, useFlex9Cb, useFlex11Cb, useFlex10Cb, useFlex12Cb, useFlex14Cb, useFlex15Cb, useFlex17Cb, useFlex24Cb, useFlex26Cb, useFlex18Cb, usePorfolio_CreaterCb, useTextBox5Cb, useTextBox3Cb, useTextBox4Cb, useTextBox6Cb, useTextBox7Cb, useTextBox8Cb, useImage3Cb, useTextBox11Cb, useTextBox12Cb, useTextBox13Cb, useButton1Cb, useTextBox14Cb, useImage5Cb, useImage6Cb, useTextBox17Cb, useImage8Cb, useImage9Cb, useImage10Cb, useImage7Cb } from "../page-cbs/Home";
+import { UnorderedList } from "@atrilabs/react-component-manifests/src/manifests/UnorderedList/UnorderedList.tsx";
+import { useFlex5Cb, useFlex1Cb, useFlex2Cb, useFlex3Cb, useFlex4Cb, useFlex7Cb, useFlex8Cb, useFlex9Cb, useFlex11Cb, useFlex10Cb, useFlex29Cb, useFlex30Cb, useFlex14Cb, useFlex15Cb, useFlex17Cb, useFlex24Cb, useFlex26Cb, useFlex18Cb, useFlex31Cb, useFlex32Cb, useFlex33Cb, useFlex34Cb, useFlex35Cb, useFlex36Cb, usePorfolio_CreaterCb, useTextBox5Cb, useTextBox3Cb, useTextBox4Cb, useTextBox6Cb, useTextBox7Cb, useTextBox8Cb, useImage3Cb, useTextBox11Cb, useTextBox12Cb, useTextBox13Cb, useButton1Cb, useTextBox14Cb, useImage5Cb, useImage6Cb, useTextBox17Cb, useImage8Cb, useImage9Cb, useImage10Cb, useImage7Cb, useTextBox20Cb, useTextBox21Cb, useTextBox25Cb, useTextBox26Cb, useImage11Cb, useUnorderedList7Cb, useUnorderedList8Cb, useUnorderedList9Cb, useTextBox23Cb, useTextBox27Cb, useImage13Cb, useUnorderedList10Cb, useUnorderedList11Cb, useUnorderedList12Cb, useTextBox24Cb, useTextBox29Cb, useImage14Cb, useUnorderedList13Cb, useUnorderedList14Cb, useUnorderedList15Cb } from "../page-cbs/Home";
 import "../page-css/Home.css";
 import "../custom/Home";
 
@@ -58,9 +59,12 @@ const Flex11Cb = useFlex11Cb()
 const Flex10Props = useStore((state)=>state["Home"]["Flex10"]);
 const Flex10IoProps = useIoStore((state)=>state["Home"]["Flex10"]);
 const Flex10Cb = useFlex10Cb()
-const Flex12Props = useStore((state)=>state["Home"]["Flex12"]);
-const Flex12IoProps = useIoStore((state)=>state["Home"]["Flex12"]);
-const Flex12Cb = useFlex12Cb()
+const Flex29Props = useStore((state)=>state["Home"]["Flex29"]);
+const Flex29IoProps = useIoStore((state)=>state["Home"]["Flex29"]);
+const Flex29Cb = useFlex29Cb()
+const Flex30Props = useStore((state)=>state["Home"]["Flex30"]);
+const Flex30IoProps = useIoStore((state)=>state["Home"]["Flex30"]);
+const Flex30Cb = useFlex30Cb()
 const Flex14Props = useStore((state)=>state["Home"]["Flex14"]);
 const Flex14IoProps = useIoStore((state)=>state["Home"]["Flex14"]);
 const Flex14Cb = useFlex14Cb()
@@ -79,6 +83,24 @@ const Flex26Cb = useFlex26Cb()
 const Flex18Props = useStore((state)=>state["Home"]["Flex18"]);
 const Flex18IoProps = useIoStore((state)=>state["Home"]["Flex18"]);
 const Flex18Cb = useFlex18Cb()
+const Flex31Props = useStore((state)=>state["Home"]["Flex31"]);
+const Flex31IoProps = useIoStore((state)=>state["Home"]["Flex31"]);
+const Flex31Cb = useFlex31Cb()
+const Flex32Props = useStore((state)=>state["Home"]["Flex32"]);
+const Flex32IoProps = useIoStore((state)=>state["Home"]["Flex32"]);
+const Flex32Cb = useFlex32Cb()
+const Flex33Props = useStore((state)=>state["Home"]["Flex33"]);
+const Flex33IoProps = useIoStore((state)=>state["Home"]["Flex33"]);
+const Flex33Cb = useFlex33Cb()
+const Flex34Props = useStore((state)=>state["Home"]["Flex34"]);
+const Flex34IoProps = useIoStore((state)=>state["Home"]["Flex34"]);
+const Flex34Cb = useFlex34Cb()
+const Flex35Props = useStore((state)=>state["Home"]["Flex35"]);
+const Flex35IoProps = useIoStore((state)=>state["Home"]["Flex35"]);
+const Flex35Cb = useFlex35Cb()
+const Flex36Props = useStore((state)=>state["Home"]["Flex36"]);
+const Flex36IoProps = useIoStore((state)=>state["Home"]["Flex36"]);
+const Flex36Cb = useFlex36Cb()
 const Porfolio_CreaterProps = useStore((state)=>state["Home"]["Porfolio_Creater"]);
 const Porfolio_CreaterIoProps = useIoStore((state)=>state["Home"]["Porfolio_Creater"]);
 const Porfolio_CreaterCb = usePorfolio_CreaterCb()
@@ -139,6 +161,66 @@ const Image10Cb = useImage10Cb()
 const Image7Props = useStore((state)=>state["Home"]["Image7"]);
 const Image7IoProps = useIoStore((state)=>state["Home"]["Image7"]);
 const Image7Cb = useImage7Cb()
+const TextBox20Props = useStore((state)=>state["Home"]["TextBox20"]);
+const TextBox20IoProps = useIoStore((state)=>state["Home"]["TextBox20"]);
+const TextBox20Cb = useTextBox20Cb()
+const TextBox21Props = useStore((state)=>state["Home"]["TextBox21"]);
+const TextBox21IoProps = useIoStore((state)=>state["Home"]["TextBox21"]);
+const TextBox21Cb = useTextBox21Cb()
+const TextBox25Props = useStore((state)=>state["Home"]["TextBox25"]);
+const TextBox25IoProps = useIoStore((state)=>state["Home"]["TextBox25"]);
+const TextBox25Cb = useTextBox25Cb()
+const TextBox26Props = useStore((state)=>state["Home"]["TextBox26"]);
+const TextBox26IoProps = useIoStore((state)=>state["Home"]["TextBox26"]);
+const TextBox26Cb = useTextBox26Cb()
+const Image11Props = useStore((state)=>state["Home"]["Image11"]);
+const Image11IoProps = useIoStore((state)=>state["Home"]["Image11"]);
+const Image11Cb = useImage11Cb()
+const UnorderedList7Props = useStore((state)=>state["Home"]["UnorderedList7"]);
+const UnorderedList7IoProps = useIoStore((state)=>state["Home"]["UnorderedList7"]);
+const UnorderedList7Cb = useUnorderedList7Cb()
+const UnorderedList8Props = useStore((state)=>state["Home"]["UnorderedList8"]);
+const UnorderedList8IoProps = useIoStore((state)=>state["Home"]["UnorderedList8"]);
+const UnorderedList8Cb = useUnorderedList8Cb()
+const UnorderedList9Props = useStore((state)=>state["Home"]["UnorderedList9"]);
+const UnorderedList9IoProps = useIoStore((state)=>state["Home"]["UnorderedList9"]);
+const UnorderedList9Cb = useUnorderedList9Cb()
+const TextBox23Props = useStore((state)=>state["Home"]["TextBox23"]);
+const TextBox23IoProps = useIoStore((state)=>state["Home"]["TextBox23"]);
+const TextBox23Cb = useTextBox23Cb()
+const TextBox27Props = useStore((state)=>state["Home"]["TextBox27"]);
+const TextBox27IoProps = useIoStore((state)=>state["Home"]["TextBox27"]);
+const TextBox27Cb = useTextBox27Cb()
+const Image13Props = useStore((state)=>state["Home"]["Image13"]);
+const Image13IoProps = useIoStore((state)=>state["Home"]["Image13"]);
+const Image13Cb = useImage13Cb()
+const UnorderedList10Props = useStore((state)=>state["Home"]["UnorderedList10"]);
+const UnorderedList10IoProps = useIoStore((state)=>state["Home"]["UnorderedList10"]);
+const UnorderedList10Cb = useUnorderedList10Cb()
+const UnorderedList11Props = useStore((state)=>state["Home"]["UnorderedList11"]);
+const UnorderedList11IoProps = useIoStore((state)=>state["Home"]["UnorderedList11"]);
+const UnorderedList11Cb = useUnorderedList11Cb()
+const UnorderedList12Props = useStore((state)=>state["Home"]["UnorderedList12"]);
+const UnorderedList12IoProps = useIoStore((state)=>state["Home"]["UnorderedList12"]);
+const UnorderedList12Cb = useUnorderedList12Cb()
+const TextBox24Props = useStore((state)=>state["Home"]["TextBox24"]);
+const TextBox24IoProps = useIoStore((state)=>state["Home"]["TextBox24"]);
+const TextBox24Cb = useTextBox24Cb()
+const TextBox29Props = useStore((state)=>state["Home"]["TextBox29"]);
+const TextBox29IoProps = useIoStore((state)=>state["Home"]["TextBox29"]);
+const TextBox29Cb = useTextBox29Cb()
+const Image14Props = useStore((state)=>state["Home"]["Image14"]);
+const Image14IoProps = useIoStore((state)=>state["Home"]["Image14"]);
+const Image14Cb = useImage14Cb()
+const UnorderedList13Props = useStore((state)=>state["Home"]["UnorderedList13"]);
+const UnorderedList13IoProps = useIoStore((state)=>state["Home"]["UnorderedList13"]);
+const UnorderedList13Cb = useUnorderedList13Cb()
+const UnorderedList14Props = useStore((state)=>state["Home"]["UnorderedList14"]);
+const UnorderedList14IoProps = useIoStore((state)=>state["Home"]["UnorderedList14"]);
+const UnorderedList14Cb = useUnorderedList14Cb()
+const UnorderedList15Props = useStore((state)=>state["Home"]["UnorderedList15"]);
+const UnorderedList15IoProps = useIoStore((state)=>state["Home"]["UnorderedList15"]);
+const UnorderedList15Cb = useUnorderedList15Cb()
 
   return (<>
   <Flex className="p-Home Flex5 bpt" {...Flex5Props} {...Flex5Cb} {...Flex5IoProps}>
@@ -176,7 +258,8 @@ const Image7Cb = useImage7Cb()
 </Flex>
 </Flex>
 </Flex>
-<Flex className="p-Home Flex12 bpt" {...Flex12Props} {...Flex12Cb} {...Flex12IoProps}>
+<Flex className="p-Home Flex29 bpt" {...Flex29Props} {...Flex29Cb} {...Flex29IoProps}>
+<Flex className="p-Home Flex30 bpt" {...Flex30Props} {...Flex30Cb} {...Flex30IoProps}>
 <Flex className="p-Home Flex14 bpt" {...Flex14Props} {...Flex14Cb} {...Flex14IoProps}>
 <TextBox className="p-Home TextBox17 bpt" {...TextBox17Props} {...TextBox17Cb} {...TextBox17IoProps}/>
 <Flex className="p-Home Flex15 bpt" {...Flex15Props} {...Flex15Cb} {...Flex15IoProps}>
@@ -190,6 +273,39 @@ const Image7Cb = useImage7Cb()
 <Flex className="p-Home Flex26 bpt" {...Flex26Props} {...Flex26Cb} {...Flex26IoProps}>
 <Image className="p-Home Image10 bpt" {...Image10Props} {...Image10Cb} {...Image10IoProps}/>
 </Flex>
+</Flex>
+</Flex>
+</Flex>
+</Flex>
+</Flex>
+<Flex className="p-Home Flex31 bpt" {...Flex31Props} {...Flex31Cb} {...Flex31IoProps}>
+<TextBox className="p-Home TextBox20 bpt" {...TextBox20Props} {...TextBox20Cb} {...TextBox20IoProps}/>
+<Flex className="p-Home Flex32 bpt" {...Flex32Props} {...Flex32Cb} {...Flex32IoProps}>
+<TextBox className="p-Home TextBox21 bpt" {...TextBox21Props} {...TextBox21Cb} {...TextBox21IoProps}/>
+<Flex className="p-Home Flex33 bpt" {...Flex33Props} {...Flex33Cb} {...Flex33IoProps}>
+<Flex className="p-Home Flex34 bpt" {...Flex34Props} {...Flex34Cb} {...Flex34IoProps}>
+<Image className="p-Home Image11 bpt" {...Image11Props} {...Image11Cb} {...Image11IoProps}/>
+<TextBox className="p-Home TextBox25 bpt" {...TextBox25Props} {...TextBox25Cb} {...TextBox25IoProps}/>
+<TextBox className="p-Home TextBox26 bpt" {...TextBox26Props} {...TextBox26Cb} {...TextBox26IoProps}/>
+<UnorderedList className="p-Home UnorderedList7 bpt" {...UnorderedList7Props} {...UnorderedList7Cb} {...UnorderedList7IoProps}/>
+<UnorderedList className="p-Home UnorderedList9 bpt" {...UnorderedList9Props} {...UnorderedList9Cb} {...UnorderedList9IoProps}/>
+<UnorderedList className="p-Home UnorderedList8 bpt" {...UnorderedList8Props} {...UnorderedList8Cb} {...UnorderedList8IoProps}/>
+</Flex>
+<Flex className="p-Home Flex35 bpt" {...Flex35Props} {...Flex35Cb} {...Flex35IoProps}>
+<Image className="p-Home Image13 bpt" {...Image13Props} {...Image13Cb} {...Image13IoProps}/>
+<TextBox className="p-Home TextBox27 bpt" {...TextBox27Props} {...TextBox27Cb} {...TextBox27IoProps}/>
+<TextBox className="p-Home TextBox23 bpt" {...TextBox23Props} {...TextBox23Cb} {...TextBox23IoProps}/>
+<UnorderedList className="p-Home UnorderedList10 bpt" {...UnorderedList10Props} {...UnorderedList10Cb} {...UnorderedList10IoProps}/>
+<UnorderedList className="p-Home UnorderedList11 bpt" {...UnorderedList11Props} {...UnorderedList11Cb} {...UnorderedList11IoProps}/>
+<UnorderedList className="p-Home UnorderedList12 bpt" {...UnorderedList12Props} {...UnorderedList12Cb} {...UnorderedList12IoProps}/>
+</Flex>
+<Flex className="p-Home Flex36 bpt" {...Flex36Props} {...Flex36Cb} {...Flex36IoProps}>
+<Image className="p-Home Image14 bpt" {...Image14Props} {...Image14Cb} {...Image14IoProps}/>
+<TextBox className="p-Home TextBox24 bpt" {...TextBox24Props} {...TextBox24Cb} {...TextBox24IoProps}/>
+<TextBox className="p-Home TextBox29 bpt" {...TextBox29Props} {...TextBox29Cb} {...TextBox29IoProps}/>
+<UnorderedList className="p-Home UnorderedList13 bpt" {...UnorderedList13Props} {...UnorderedList13Cb} {...UnorderedList13IoProps}/>
+<UnorderedList className="p-Home UnorderedList14 bpt" {...UnorderedList14Props} {...UnorderedList14Cb} {...UnorderedList14IoProps}/>
+<UnorderedList className="p-Home UnorderedList15 bpt" {...UnorderedList15Props} {...UnorderedList15Cb} {...UnorderedList15IoProps}/>
 </Flex>
 </Flex>
 </Flex>

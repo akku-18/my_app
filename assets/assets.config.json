@@ -16,5 +16,14 @@
   },
   "logoipsum4.png": {
     "mime": "image/png"
+  },
+  "service1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "service2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "service3.svg": {
+    "mime": "image/svg+xml"
   }
 }

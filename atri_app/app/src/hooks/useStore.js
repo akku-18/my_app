@@ -70,7 +70,10 @@ const desktopModeProps = {
     "Flex10": {
       "callbacks": {}
     },
-    "Flex12": {
+    "Flex29": {
+      "callbacks": {}
+    },
+    "Flex30": {
       "callbacks": {}
     },
     "Flex14": {
@@ -89,6 +92,24 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex18": {
+      "callbacks": {}
+    },
+    "Flex31": {
+      "callbacks": {}
+    },
+    "Flex32": {
+      "callbacks": {}
+    },
+    "Flex33": {
+      "callbacks": {}
+    },
+    "Flex34": {
+      "callbacks": {}
+    },
+    "Flex35": {
+      "callbacks": {}
+    },
+    "Flex36": {
       "callbacks": {}
     },
     "Porfolio_Creater": {
@@ -329,6 +350,312 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/logoipsum1.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox20": {
+      "custom": {
+        "text": "Services"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox21": {
+      "custom": {
+        "text": "Design that solves problems, one product at a time."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox25": {
+      "custom": {
+        "text": "What I can do for you"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox26": {
+      "custom": {
+        "text": "Faster, better products that your users love. Here's all the services I provide:"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image11": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/service1.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList7": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#00000073",
+        "items": [
+          {
+            "title": "Design Strategy"
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList8": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#00000073",
+        "items": [
+          {
+            "title": "Front-end Development"
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList9": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#00000073",
+        "items": [
+          {
+            "title": "Web and Mobile App Design"
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox23": {
+      "custom": {
+        "text": "Every designer needs the right tools to do the perfect job. Thankfully, I'm multilingual."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox27": {
+      "custom": {
+        "text": "Applications I'm fluent in"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image13": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/service2.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList10": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#00000073",
+        "items": [
+          {
+            "title": "Sketch"
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList11": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#00000073",
+        "items": [
+          {
+            "title": "Webflow"
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList12": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#00000073",
+        "items": [
+          {
+            "title": "Figma"
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox24": {
+      "custom": {
+        "text": "What you can expect"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox29": {
+      "custom": {
+        "text": "I design products that are more than pretty. I make them shippable and usable."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image14": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/service3.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList13": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#00000073",
+        "items": [
+          {
+            "title": "Clean and functional"
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList14": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#00000073",
+        "items": [
+          {
+            "title": "Device and user friendly"
+          }
+        ]
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "UnorderedList15": {
+      "custom": {
+        "type": "disc",
+        "titleColor": "#000000d9",
+        "descriptionColor": "#00000073",
+        "items": [
+          {
+            "title": "Efficient and maintainable"
+          }
+        ]
       },
       "callbacks": {
         "onClick": [
