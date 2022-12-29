@@ -1,0 +1,139 @@
+.p-Home.Flex5 {
+display: flex;
+align-content: stretch;
+justify-content: center;
+padding-top: 32px;
+padding-bottom: 32px;
+}
+.p-Home.Flex1 {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding-left: ;
+padding-right: ;
+width: 60%;
+font-family: IBM Plex Sans;
+margin-left: ;
+margin-right: ;
+cursor: auto;
+background-color: ;
+}
+.p-Home.Flex2 {
+display: flex;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 20px;
+}
+.p-Home.Flex3 {
+display: flex;
+column-gap: 24px;
+font-size: 15px;
+padding-top: 4px;
+}
+.p-Home.Flex4 {
+display: flex;
+column-gap: 10px;
+}
+.p-Home.Flex7 {
+display: flex;
+width: ;
+justify-content: center;
+align-items: center;
+height: 70%;
+padding-top: 80px;
+}
+.p-Home.Flex8 {
+display: flex;
+width: 60%;
+justify-content: space-around;
+height: 100%;
+}
+.p-Home.Flex9 {
+display: flex;
+width: 60%;
+height: ;
+flex-direction: column;
+}
+.p-Home.Flex11 {
+display: flex;
+padding-top: 30px;
+column-gap: 10px;
+}
+.p-Home.Porfolio_Creater {
+font-family: IBM Plex Sans;
+font-weight: 700;
+cursor: grab;
+}
+.p-Home.TextBox5 {
+cursor: grab;
+}
+.p-Home.TextBox3 {
+font-family: IBM Plex Sans;
+cursor: grab;
+}
+.p-Home.TextBox4 {
+cursor: grab;
+}
+.p-Home.TextBox6 {
+cursor: grab;
+}
+.p-Home.TextBox7 {
+cursor: grab;
+}
+.p-Home.TextBox8 {
+cursor: grab;
+}
+.p-Home.Image3 {
+font-size: ;
+width: 13px;
+cursor: grab;
+}
+.p-Home.Flex10 {
+display: flex;
+width: 50%;
+}
+.p-Home.TextBox11 {
+font-family: IBM Plex Sans;
+font-size: 57px;
+font-weight: 700;
+color: #5a49ac;
+height: ;
+}
+.p-Home.TextBox12 {
+font-family: IBM Plex Sans;
+font-size: 57px;
+font-weight: 700;
+}
+.p-Home.TextBox13 {
+padding-top: 20px;
+font-family: IBM Plex Sans;
+font-weight: 300;
+font-size: 20px;
+}
+.p-Home.Button1 {
+color: #fff;
+background-color: #000000;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 20px;
+border-radius: ;
+outline: none;
+font-weight: 600;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #000000ff;
+cursor: pointer;
+user-select: none;
+font-family: IBM Plex Sans;
+}
+.p-Home.TextBox14 {
+align-self: center;
+font-family: IBM Plex Sans;
+font-weight: 600;
+}
+.p-Home.Image5 {
+;
+}
