@@ -121,6 +121,24 @@ const desktopModeProps = {
     "Flex41": {
       "callbacks": {}
     },
+    "Flex42": {
+      "callbacks": {}
+    },
+    "Flex44": {
+      "callbacks": {}
+    },
+    "Flex45": {
+      "callbacks": {}
+    },
+    "Flex50": {
+      "callbacks": {}
+    },
+    "Flex46": {
+      "callbacks": {}
+    },
+    "Flex51": {
+      "callbacks": {}
+    },
     "Porfolio_Creater": {
       "custom": {
         "text": "Portfolio Creater"
@@ -391,6 +409,9 @@ const desktopModeProps = {
           }
         ]
       }
+    },
+    "Flex53": {
+      "callbacks": {}
     },
     "TextBox25": {
       "custom": {
@@ -713,6 +734,153 @@ const desktopModeProps = {
     "Button2": {
       "custom": {
         "text": "View all projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image15": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/project1.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox43": {
+      "custom": {
+        "text": "BRANDING"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox44": {
+      "custom": {
+        "text": "Soulful Rebrand"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox45": {
+      "custom": {
+        "text": "View Project "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox39": {
+      "custom": {
+        "text": "PRODUCT DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox41": {
+      "custom": {
+        "text": "View Project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox42": {
+      "custom": {
+        "text": "Datadash Product Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image16": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/project2.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox38": {
+      "custom": {
+        "text": "WEB DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox46": {
+      "custom": {
+        "text": "Maize Website Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox47": {
+      "custom": {
+        "text": "View Project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image17": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/project3.png"
       },
       "callbacks": {
         "onClick": [
