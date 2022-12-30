@@ -466,7 +466,7 @@ const desktopModeProps = {
     "Image3": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right_arrow.svg"
+        "src": "/my_app/app-assets/right_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -539,7 +539,7 @@ const desktopModeProps = {
     "Image5": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right_arrow.svg"
+        "src": "/my_app/app-assets/right_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -552,7 +552,7 @@ const desktopModeProps = {
     "Image6": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/person.jpeg"
+        "src": "/my_app/app-assets/person.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -577,7 +577,7 @@ const desktopModeProps = {
     "Image8": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logoipsum2.png"
+        "src": "/my_app/app-assets/logoipsum2.png"
       },
       "callbacks": {
         "onClick": [
@@ -590,7 +590,7 @@ const desktopModeProps = {
     "Image9": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logoipsum3.png"
+        "src": "/my_app/app-assets/logoipsum3.png"
       },
       "callbacks": {
         "onClick": [
@@ -603,7 +603,7 @@ const desktopModeProps = {
     "Image10": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logoipsum4.png"
+        "src": "/my_app/app-assets/logoipsum4.png"
       },
       "callbacks": {
         "onClick": [
@@ -616,7 +616,7 @@ const desktopModeProps = {
     "Image7": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/logoipsum1.png"
+        "src": "/my_app/app-assets/logoipsum1.png"
       },
       "callbacks": {
         "onClick": [
@@ -677,7 +677,7 @@ const desktopModeProps = {
     "Image11": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/service1.svg"
+        "src": "/my_app/app-assets/service1.svg"
       },
       "callbacks": {
         "onClick": [
@@ -771,7 +771,7 @@ const desktopModeProps = {
     "Image13": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/service2.svg"
+        "src": "/my_app/app-assets/service2.svg"
       },
       "callbacks": {
         "onClick": [
@@ -865,7 +865,7 @@ const desktopModeProps = {
     "Image14": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/service3.svg"
+        "src": "/my_app/app-assets/service3.svg"
       },
       "callbacks": {
         "onClick": [
@@ -983,7 +983,7 @@ const desktopModeProps = {
     "Image15": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/project1.png"
+        "src": "/my_app/app-assets/project1.png"
       },
       "callbacks": {
         "onClick": [
@@ -1068,7 +1068,7 @@ const desktopModeProps = {
     "Image16": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/project2.png"
+        "src": "/my_app/app-assets/project2.png"
       },
       "callbacks": {
         "onClick": [
@@ -1117,7 +1117,7 @@ const desktopModeProps = {
     "Image17": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/project3.png"
+        "src": "/my_app/app-assets/project3.png"
       },
       "callbacks": {
         "onClick": [
@@ -1190,7 +1190,7 @@ const desktopModeProps = {
     "Image24": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/white_arrow.svg"
+        "src": "/my_app/app-assets/white_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1239,7 +1239,7 @@ const desktopModeProps = {
     "Image23": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/white_arrow.svg"
+        "src": "/my_app/app-assets/white_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1288,7 +1288,7 @@ const desktopModeProps = {
     "Image22": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/white_arrow.svg"
+        "src": "/my_app/app-assets/white_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1313,7 +1313,7 @@ const desktopModeProps = {
     "Image19": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/white_arrow.svg"
+        "src": "/my_app/app-assets/white_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1362,7 +1362,7 @@ const desktopModeProps = {
     "Image21": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/white_arrow.svg"
+        "src": "/my_app/app-assets/white_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1411,7 +1411,7 @@ const desktopModeProps = {
     "Image18": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/white_arrow.svg"
+        "src": "/my_app/app-assets/white_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1460,7 +1460,7 @@ const desktopModeProps = {
     "Image26": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/product1.png"
+        "src": "/my_app/app-assets/product1.png"
       },
       "callbacks": {
         "onClick": [
@@ -1473,7 +1473,7 @@ const desktopModeProps = {
     "Image27": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/product2.png"
+        "src": "/my_app/app-assets/product2.png"
       },
       "callbacks": {
         "onClick": [
@@ -1486,7 +1486,7 @@ const desktopModeProps = {
     "Image29": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/product3.png"
+        "src": "/my_app/app-assets/product3.png"
       },
       "callbacks": {
         "onClick": [
@@ -1499,7 +1499,7 @@ const desktopModeProps = {
     "Image30": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/product4.png"
+        "src": "/my_app/app-assets/product4.png"
       },
       "callbacks": {
         "onClick": [
@@ -1512,7 +1512,7 @@ const desktopModeProps = {
     "Image37": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/briefcase.png"
+        "src": "/my_app/app-assets/briefcase.png"
       },
       "callbacks": {
         "onClick": [
@@ -1537,7 +1537,7 @@ const desktopModeProps = {
     "Image41": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/work1.svg"
+        "src": "/my_app/app-assets/work1.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1586,7 +1586,7 @@ const desktopModeProps = {
     "Image44": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/NE-arrow.svg"
+        "src": "/my_app/app-assets/NE-arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1599,7 +1599,7 @@ const desktopModeProps = {
     "Image42": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/work2.svg"
+        "src": "/my_app/app-assets/work2.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1648,7 +1648,7 @@ const desktopModeProps = {
     "Image45": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/NE-arrow.svg"
+        "src": "/my_app/app-assets/NE-arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1661,7 +1661,7 @@ const desktopModeProps = {
     "Image43": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/work3.svg"
+        "src": "/my_app/app-assets/work3.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1710,7 +1710,7 @@ const desktopModeProps = {
     "Image46": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/NE-arrow.svg"
+        "src": "/my_app/app-assets/NE-arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1759,7 +1759,7 @@ const desktopModeProps = {
     "Image40": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/NE-arrow.svg"
+        "src": "/my_app/app-assets/NE-arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1808,7 +1808,7 @@ const desktopModeProps = {
     "Image39": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/NE-arrow.svg"
+        "src": "/my_app/app-assets/NE-arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1857,7 +1857,7 @@ const desktopModeProps = {
     "Image38": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/NE-arrow.svg"
+        "src": "/my_app/app-assets/NE-arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1882,7 +1882,7 @@ const desktopModeProps = {
     "Image34": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/book.png"
+        "src": "/my_app/app-assets/book.png"
       },
       "callbacks": {
         "onClick": [
@@ -1919,7 +1919,7 @@ const desktopModeProps = {
     "Image47": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/person2.jpeg"
+        "src": "/my_app/app-assets/person2.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1932,7 +1932,7 @@ const desktopModeProps = {
     "Image48": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/%22.svg"
+        "src": "/my_app/app-assets/%22.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1981,7 +1981,7 @@ const desktopModeProps = {
     "Image51": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/L.svg"
+        "src": "/my_app/app-assets/L.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1994,7 +1994,7 @@ const desktopModeProps = {
     "Image53": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/LR.svg"
+        "src": "/my_app/app-assets/LR.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2043,7 +2043,7 @@ const desktopModeProps = {
     "Image54": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/down.svg"
+        "src": "/my_app/app-assets/down.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2068,7 +2068,7 @@ const desktopModeProps = {
     "Image56": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/down.svg"
+        "src": "/my_app/app-assets/down.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2093,7 +2093,7 @@ const desktopModeProps = {
     "Image57": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/down.svg"
+        "src": "/my_app/app-assets/down.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2118,7 +2118,7 @@ const desktopModeProps = {
     "Image58": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/down.svg"
+        "src": "/my_app/app-assets/down.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2143,7 +2143,7 @@ const desktopModeProps = {
     "Image55": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/down.svg"
+        "src": "/my_app/app-assets/down.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2168,7 +2168,7 @@ const desktopModeProps = {
     "Image59": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/down.svg"
+        "src": "/my_app/app-assets/down.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2193,7 +2193,7 @@ const desktopModeProps = {
     "Image60": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/down.svg"
+        "src": "/my_app/app-assets/down.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2218,7 +2218,7 @@ const desktopModeProps = {
     "Image61": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/down.svg"
+        "src": "/my_app/app-assets/down.svg"
       },
       "callbacks": {
         "onClick": [
